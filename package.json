@@ -1,0 +1,11 @@
+{
+  "scripts": {
+    "build":"rm -rf dist && parcel build src/index.html --no-minify --public-url ./"
+  },
+  "name": "nav-2",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:HHuangYQ/--1.git",
+  "author": "HHuangYQ <1135782479@qq.com>",
+  "license": "MIT"
+}
