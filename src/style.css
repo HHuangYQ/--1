@@ -131,11 +131,10 @@ body {background: #EEE;}
   justify-content: center;
   align-items: center;
 }
-body{
+/* body{
   height: 100vh;
-  background: url(./images/16pic_7956773_b.jpeg);
   background-size: 100% 100%;
   background-position: center center;
   overflow: auto;
   background-size: cover;
-}
+} */
